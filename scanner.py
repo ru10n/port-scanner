@@ -1,6 +1,6 @@
 import socket
 
-host = "127.0.0.1"
+host = "192.168.56.101"
 puertos = range(1, 1025)
 
 for puerto in puertos:
